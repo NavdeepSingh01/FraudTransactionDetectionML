@@ -1,0 +1,1 @@
+This project focuses on detecting fraudulent financial transactions using machine learning algorithms like Random Forest and XGBoost. It includes data preprocessing, model evaluation for real-time fraud prediction.
